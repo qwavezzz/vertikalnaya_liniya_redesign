@@ -1,0 +1,122 @@
+/*========================= RESPONSIVE ====================*/
+
+@media (min-width: 768px) {	
+	.row-fluid .no-space [class*="span"]{
+		margin-left:0;
+		*margin-left:0;
+	}
+	.row-fluid .controls-row .no-space [class*="span"]+[class*="span"]{
+		margin-left:0;
+	}
+	.row-fluid .no-space .span12{
+		width:100%;
+		*width:100%;
+	}
+	.row-fluid .no-space .span11{
+		width:91.6666%;
+		*width:91.6666%;
+	}
+	.row-fluid .no-space .span10{
+		width:83.3333%;
+		*width:83.3333%;
+	}
+	.row-fluid .no-space .span9{
+		width:75%;
+		*width:75%;
+	}
+	.row-fluid .no-space .span8{
+		width:66.6666%;
+		*width:66.6666%;
+	}
+	.row-fluid .no-space .span7{
+		width:58.3333%;
+		*width:58.3333%;
+	}
+	.row-fluid .no-space .span6{
+		width:50%;
+		*width:50%;
+	}
+	.row-fluid .no-space .span5{
+		width:41.6666%;
+		*width:41.6666%;
+	}
+	.row-fluid .no-space .span4{
+		width:33.3333%;
+		*width:33.3333%;
+	}
+	.row-fluid .no-space .span3{
+		width:25%;
+		*width:25%;
+	}
+	.row-fluid .no-space .span2{
+		width:16.6666%;
+		*width:16.6666%;
+	}
+	.row-fluid .no-space .span1{
+		width:8.3333%;
+		*width:8.3333%;
+	}
+	.row-fluid .no-space .offset12,
+	.row-fluid .no-space .offset12:first-child{
+		margin-left:100%;
+		*margin-left:100%
+	}
+	.row-fluid .no-space .offset11,
+	.row-fluid .no-space .offset11:first-child{
+		margin-left:91.6666%;
+		*margin-left:91.6666%;
+	}
+	.row-fluid .no-space .offset10,
+	.row-fluid .no-space .offset10:first-child{
+		margin-left:83.3333%;
+		*margin-left:83.3333%;
+	}
+	.row-fluid .no-space .offset9,
+	.row-fluid .no-space .offset9:first-child{
+		margin-left:75%;
+		*margin-left:75%;
+	}
+	.row-fluid .no-space .offset8,
+	.row-fluid .no-space .offset8:first-child{
+		margin-left:66.6666%;
+		*margin-left:66.6666%;
+	}
+	.row-fluid .no-space .offset7,
+	.row-fluid .no-space .offset7:first-child{
+		margin-left:58.3333%;
+		*margin-left:58.3333%;
+	}
+	.row-fluid .no-space .offset6,
+	.row-fluid .no-space .offset6:first-child{
+		margin-left:50%;
+		*margin-left:50%;
+	}
+	.row-fluid .no-space .offset5,
+	.row-fluid .no-space .offset5:first-child{
+		margin-left:41.6666%;
+		*margin-left:41.6666%;
+	}
+	.row-fluid .no-space .offset4,
+	.row-fluid .no-space .offset4:first-child{
+		margin-left:33.3333%;
+		*margin-left:33.3333%;
+	}
+	.row-fluid .no-space .offset3,
+	.row-fluid .no-space .offset3:first-child{
+		margin-left:25%;
+		*margin-left:25%;
+	}
+	.row-fluid .no-space .offset2,
+	.row-fluid .no-space .offset2:first-child{
+		margin-left:16.6666%;
+		*margin-left:16.6666%;
+	}
+	.row-fluid .no-space .offset1,
+	.row-fluid .no-space .offset1:first-child{
+		margin-left:8.3333%;
+		*margin-left:8.3333%;
+	}
+	.controls-row .no-space [class*="span"]+[class*="span"]{
+		margin-left:0px;
+	}
+}

@@ -1,0 +1,235 @@
+[
+  {
+    "name": "source-desktop",
+    "title": "Натяжные потолки в Тольятти и Самаре, компания Вертикальная линия",
+    "url": "https://vl63.ru/",
+    "width": 1440,
+    "scrollWidth": 1440,
+    "images": 41,
+    "loadedImages": 41,
+    "forms": [],
+    "mainClasses": [
+      {
+        "tag": "DIV",
+        "id": "",
+        "classes": "blog-featured"
+      }
+    ],
+    "links": [],
+    "errors": [
+      "jQuery(...).fancybox is not a function"
+    ]
+  },
+  {
+    "name": "source-mobile",
+    "title": "Натяжные потолки в Тольятти и Самаре, компания Вертикальная линия",
+    "url": "https://vl63.ru/",
+    "width": 390,
+    "scrollWidth": 390,
+    "images": 41,
+    "loadedImages": 41,
+    "forms": [],
+    "mainClasses": [
+      {
+        "tag": "DIV",
+        "id": "",
+        "classes": "blog-featured"
+      }
+    ],
+    "links": [],
+    "errors": [
+      "jQuery(...).fancybox is not a function"
+    ]
+  },
+  {
+    "name": "source-gallery",
+    "title": "Фото натяжных потолков в интерьере. Вертикальная линия, Тольятти",
+    "url": "https://vl63.ru/nashi_raboty.html",
+    "width": 1440,
+    "scrollWidth": 1440,
+    "images": 478,
+    "loadedImages": 478,
+    "forms": [],
+    "mainClasses": [
+      {
+        "tag": "SPAN",
+        "id": "startOfPageId133",
+        "classes": ""
+      },
+      {
+        "tag": "DIV",
+        "id": "",
+        "classes": "ot-content"
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "href": "https://vl63.ru/images/25/matoviy.jpg"
+      },
+      {
+        "text": "",
+        "href": "https://vl63.ru/images/25/satinoviy.jpg"
+      },
+      {
+        "text": "https://vl63.ru/nashi_raboty.html#sigProIdc07b96f6bb",
+        "href": "https://vl63.ru/nashi_raboty.html#sigProIdc07b96f6bb"
+      },
+      {
+        "text": "Бассейн \"Альтер Эго\"",
+        "href": "https://vl63.ru/nashi_raboty/bassein.html"
+      },
+      {
+        "text": "",
+        "href": "https://vl63.ru/images/3/b1.jpg"
+      },
+      {
+        "text": "",
+        "href": "https://vl63.ru/images/3/b2.jpg"
+      },
+      {
+        "text": "https://vl63.ru/nashi_raboty.html#sigProId7981e4ff85",
+        "href": "https://vl63.ru/nashi_raboty.html#sigProId7981e4ff85"
+      },
+      {
+        "text": "Ловчий+",
+        "href": "https://vl63.ru/nashi_raboty/lovchiy.html"
+      },
+      {
+        "text": "",
+        "href": "https://vl63.ru/images/4/25.jpg"
+      },
+      {
+        "text": "",
+        "href": "https://vl63.ru/images/4/goluboi_potolok_v_saune_lovchiy.JPG"
+      },
+      {
+        "text": "",
+        "href": "https://vl63.ru/images/4/lovchiy-sauna.jpg"
+      },
+      {
+        "text": "",
+        "href": "https://vl63.ru/images/4/lovchiy.jpg"
+      },
+      {
+        "text": "",
+        "href": "https://vl63.ru/images/4/lovchiy_plus.jpg"
+      },
+      {
+        "text": "",
+        "href": "https://vl63.ru/images/4/siniy_potolok_nad_basseinom.JPG"
+      },
+      {
+        "text": "https://vl63.ru/nashi_raboty.html#sigProId203db5cddf",
+        "href": "https://vl63.ru/nashi_raboty.html#sigProId203db5cddf"
+      },
+      {
+        "text": "Sush-ka",
+        "href": "https://vl63.ru/nashi_raboty/sush-ka.html"
+      },
+      {
+        "text": "",
+        "href": "https://vl63.ru/images/5/IMG_6419.JPG"
+      },
+      {
+        "text": "",
+        "href": "https://vl63.ru/images/5/IMG_6422.JPG"
+      },
+      {
+        "text": "",
+        "href": "https://vl63.ru/images/5/IMG_6430.JPG"
+      },
+      {
+        "text": "",
+        "href": "https://vl63.ru/images/5/IMG_6433.JPG"
+      },
+      {
+        "text": "",
+        "href": "https://vl63.ru/images/5/Sush-ka%20potolki.JPG"
+      },
+      {
+        "text": "https://vl63.ru/nashi_raboty.html#sigProIdcc5d74f5ba",
+        "href": "https://vl63.ru/nashi_raboty.html#sigProIdcc5d74f5ba"
+      },
+      {
+        "text": "Кафе Тарелка",
+        "href": "https://vl63.ru/nashi_raboty/kafe_tarelka.html"
+      },
+      {
+        "text": "",
+        "href": "https://vl63.ru/images/6/14.jpg"
+      },
+      {
+        "text": "",
+        "href": "https://vl63.ru/images/6/15.jpg"
+      },
+      {
+        "text": "",
+        "href": "https://vl63.ru/images/6/16.jpg"
+      },
+      {
+        "text": "",
+        "href": "https://vl63.ru/images/6/17.jpg"
+      },
+      {
+        "text": "",
+        "href": "https://vl63.ru/images/6/18.jpg"
+      },
+      {
+        "text": "",
+        "href": "https://vl63.ru/images/6/19.jpg"
+      },
+      {
+        "text": "",
+        "href": "https://vl63.ru/images/6/20.jpg"
+      }
+    ],
+    "errors": [
+      "jQuery(...).fancybox is not a function",
+      "a.measure is not a function",
+      "a.measure is not a function",
+      "a.measure is not a function"
+    ]
+  },
+  {
+    "name": "source-article",
+    "title": "Популярный в Тольятти накладной светильник для натяжных потолков. Берите не пожалеете!",
+    "url": "https://vl63.ru/news/item/316-populyarnyj-v-tolyatti-nakladnoj-svetilnik-dlya-natyazhnyh-potolkov.html",
+    "width": 1440,
+    "scrollWidth": 1440,
+    "images": 24,
+    "loadedImages": 24,
+    "forms": [],
+    "mainClasses": [
+      {
+        "tag": "SPAN",
+        "id": "startOfPageId316",
+        "classes": ""
+      },
+      {
+        "tag": "DIV",
+        "id": "",
+        "classes": "ot-content"
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "href": "https://vl63.ru/media/k2/items/cache/4ddc75f1698994d05cf43f2316d7d33a_XL.jpg"
+      },
+      {
+        "text": "нашим рекомендациям и необходимым техническим требованиям по выбору люстр в натяжной потолок",
+        "href": "https://vl63.ru/vybor_lyustr.html"
+      },
+      {
+        "text": "наверх",
+        "href": "https://vl63.ru/news/item/316-populyarnyj-v-tolyatti-nakladnoj-svetilnik-dlya-natyazhnyh-potolkov.html#startOfPageId316"
+      }
+    ],
+    "errors": [
+      "jQuery(...).fancybox is not a function",
+      "a.measure is not a function",
+      "a.measure is not a function"
+    ]
+  }
+]

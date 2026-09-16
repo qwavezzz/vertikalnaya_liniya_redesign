@@ -1,0 +1,15 @@
+* text=auto eol=lf
+
+# Preserve archived HTTP response bytes and their recorded checksums.
+*.bin binary
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.gif binary
+*.webp binary
+*.ico binary
+*.pdf binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.eot binary

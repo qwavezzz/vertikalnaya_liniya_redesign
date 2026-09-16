@@ -1,0 +1,16 @@
+# Local working data and installed helper packages
+/.impeccable/
+**/.deps/
+**/__pycache__/
+*.pyc
+site-archive/server.log
+site-archive/server.pid
+
+# Local credentials and machine settings
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+Thumbs.db

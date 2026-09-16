@@ -1,0 +1,59 @@
+{
+  "created_at": "2026-09-16T14:11:22.792185+00:00",
+  "source": "https://vl63.ru",
+  "pages": 278,
+  "assets": 3376,
+  "images": 3322,
+  "downloaded_bytes": 586916268,
+  "page_types": {
+    "homepage": 1,
+    "joomla-article": 2,
+    "k2-item": 226,
+    "listing-or-page": 49
+  },
+  "failures": [
+    {
+      "url": "https://vl63.ru/vybor_formy/s_konstrykciyami.html",
+      "kind": "page",
+      "error": "not present in the cached snapshot"
+    },
+    {
+      "url": "https://vl63.ru/zakazat.html",
+      "kind": "page",
+      "error": "not present in the cached snapshot"
+    },
+    {
+      "url": "https://vl63.ru/templates/ot_print/images/apple-touch-icon-114x114-precomposed.png",
+      "kind": "asset",
+      "error": "not present in the cached snapshot"
+    },
+    {
+      "url": "https://vl63.ru/templates/ot_print/images/apple-touch-icon-144x144-precomposed.png",
+      "kind": "asset",
+      "error": "not present in the cached snapshot"
+    },
+    {
+      "url": "https://vl63.ru/templates/ot_print/images/apple-touch-icon-57x57-precomposed.png",
+      "kind": "asset",
+      "error": "not present in the cached snapshot"
+    },
+    {
+      "url": "https://vl63.ru/templates/ot_print/images/apple-touch-icon-72x72-precomposed.png",
+      "kind": "asset",
+      "error": "not present in the cached snapshot"
+    },
+    {
+      "url": "https://vl63.ru/templates/ot_print/images/arrow2.png",
+      "kind": "asset",
+      "error": "not present in the cached snapshot"
+    },
+    {
+      "url": "https://vl63.ru/templates/ot_print/images/discount_bg.png",
+      "kind": "asset",
+      "error": "not present in the cached snapshot"
+    }
+  ],
+  "skipped": [],
+  "sitemap_used": false,
+  "scope": "Linked public pages and their assets; no database, server PHP, private administration, or submitted forms."
+}

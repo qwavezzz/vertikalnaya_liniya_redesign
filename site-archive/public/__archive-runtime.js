@@ -1,0 +1,1 @@
+document.addEventListener('submit',function(e){e.preventDefault();e.stopImmediatePropagation();alert('Это локальный архив. Отправка формы доступна только на действующем сайте.');},true);

@@ -1,0 +1,1745 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE install PUBLIC "-//Joomla! 2.5//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.6/template-install.dtd">
+
+<extension version="2.5" type="template" client="site" method="upgrade">
+
+	<name>ot_print</name>
+
+	<creationDate>January 2014</creationDate>
+
+	<author>OmegaTheme.com</author>
+
+	<copyright>Copyright (C) 2009-2013 Omegatheme. All Rights Reserved.</copyright>
+
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+
+	<authorEmail>services@omegatheme.com</authorEmail>
+
+	<authorUrl>http://www.omegatheme.com</authorUrl>
+
+	<version>2.1</version>
+
+	<description><![CDATA[
+
+		<div style="font-size: 13px; overflow: hidden;">
+
+		<strong>OT Print</strong> Joomla! 2.5 reponsive template from <strong>OmegaTheme</strong>. 
+
+		<br /><br /><strong>OmegaTheme</strong><br />Professional, clean and powerfull Joomla templates.<br />.
+
+		<br /><br /><strong>Omega Templates</strong><br />See a template product of all Omegatheme templates.<br />
+
+		<br /><br /><strong>Omega New and Updates</strong><br />Read the News, updates, tutorials and get help for all Omegatheme products.<br />
+
+		</div>
+
+		]]>
+
+	</description>
+
+	<files>
+
+		<folder>css</folder>
+
+		<folder>html</folder>
+
+		<folder>images</folder>
+
+		<folder>js</folder>
+
+		<folder>language</folder>
+
+		<folder>lib</folder>		
+
+		
+
+		<filename>component.php</filename>
+
+		<filename>error.php</filename>
+
+		<filename>offline.php</filename>
+
+		<filename>favicon.ico</filename>
+
+		<filename>index.html</filename>
+
+		<filename>index.php</filename>
+
+		<filename>template_preview.png</filename>
+
+		<filename>template_thumbnail.png</filename>
+
+		<filename>templateDetails.xml</filename>
+
+		<filename>demo.xml</filename>
+
+	</files>
+
+	
+
+	<positions>
+
+		<position>top1-1</position>
+
+		<position>top1-2</position>
+
+		<position>top1-3</position>
+
+		<position>top1-4</position>
+
+		<position>top1-5</position>
+
+		<position>top1-6</position>
+
+		<position>top2-1</position>
+
+		<position>top2-2</position>
+
+		<position>top2-3</position>
+
+		<position>top2-4</position>
+
+		<position>top2-5</position>
+
+		<position>top2-6</position>
+
+		<position>top3-1</position>
+
+		<position>top3-2</position>
+
+		<position>top3-3</position>
+
+		<position>top3-4</position>
+
+		<position>top3-5</position>
+
+		<position>top3-6</position>
+
+		<position>top4-1</position>
+
+		<position>top4-2</position>
+
+		<position>top4-3</position>
+
+		<position>top4-4</position>
+
+		<position>top4-5</position>
+
+		<position>top4-6</position>
+
+		<position>top5-1</position>
+
+		<position>top5-2</position>
+
+		<position>top5-3</position>
+
+		<position>top5-4</position>
+
+		<position>top5-5</position>
+
+		<position>top5-6</position>
+
+		<position>middle1-1</position>
+
+		<position>middle1-2</position>
+
+		<position>middle1-3</position>
+
+		<position>middle1-4</position>
+
+		<position>middle1-5</position>
+
+		<position>middle1-6</position>
+
+		<position>middle2-1</position>
+
+		<position>middle2-2</position>
+
+		<position>middle2-3</position>
+
+		<position>middle2-4</position>
+
+		<position>middle2-5</position>
+
+		<position>middle2-6</position>
+
+		<position>middle3-1</position>
+
+		<position>middle3-2</position>
+
+		<position>middle3-3</position>
+
+		<position>middle3-4</position>
+
+		<position>middle3-5</position>
+
+		<position>middle3-6</position>
+
+		<position>maintop1-1</position>
+
+		<position>maintop1-2</position>
+
+		<position>maintop1-3</position>
+
+		<position>maintop1-4</position>
+
+		<position>maintop1-5</position>
+
+		<position>maintop1-6</position>
+
+		<position>maintop2-1</position>
+
+		<position>maintop2-2</position>
+
+		<position>maintop2-3</position>
+
+		<position>maintop2-4</position>
+
+		<position>maintop2-5</position>
+
+		<position>maintop2-6</position>
+
+		<position>sidebar-1</position>
+		
+		
+		<position>sid-1</position>
+
+		<position>sidebar-2</position>
+
+		<position>sidebar-3</position>
+		
+
+		<position>content-top-1</position>
+
+		<position>content-top-2</position>
+
+		<position>content-top-3</position>
+
+		<position>content-bottom-1</position>
+
+		<position>content-bottom-2</position>
+
+		<position>content-bottom-3</position>
+
+		<position>mainbottom1-1</position>
+
+		<position>mainbottom1-2</position>
+
+		<position>mainbottom1-3</position>
+
+		<position>mainbottom1-4</position>
+
+		<position>mainbottom1-5</position>
+
+		<position>mainbottom1-6</position>
+
+		<position>mainbottom2-1</position>
+
+		<position>mainbottom2-2</position>
+
+		<position>mainbottom2-3</position>
+
+		<position>mainbottom2-4</position>
+
+		<position>mainbottom2-5</position>
+
+		<position>mainbottom2-6</position>
+
+		<position>bottom1-1</position>
+
+		<position>bottom1-2</position>
+
+		<position>bottom1-3</position>
+
+		<position>bottom1-4</position>
+
+		<position>bottom1-5</position>
+
+		<position>bottom1-6</position>
+
+		<position>bottom2-1</position>
+
+		<position>bottom2-2</position>
+
+		<position>bottom2-3</position>
+
+		<position>bottom2-4</position>
+
+		<position>bottom2-5</position>
+
+		<position>bottom2-6</position>
+
+		<position>bottom3-1</position>
+
+		<position>bottom3-2</position>
+
+		<position>bottom3-3</position>
+
+		<position>bottom3-4</position>
+
+		<position>bottom3-5</position>
+
+		<position>bottom3-6</position>
+
+		<position>footer1-1</position>
+
+		<position>footer1-2</position>
+
+		<position>footer1-3</position>
+
+		<position>footer1-4</position>
+
+		<position>footer1-5</position>
+
+		<position>footer1-6</position>
+
+		<position>footer2-1</position>
+
+		<position>footer2-2</position>
+
+		<position>footer2-3</position>
+
+		<position>footer2-4</position>
+
+		<position>footer2-5</position>
+
+		<position>footer2-6</position>
+
+	</positions>
+
+	
+
+	<config>
+
+		<fields name="params" addfieldpath="/libraries/omg/elements/" >
+
+			<fieldset name="base" type="hidden">
+
+                <field default="true" name="main" type="hidden" value="true"/>
+
+				<!-- font and color script loader - do not remove -->
+
+				<field type="ocolor" />
+
+				<field type="googlefontsloader" default="" label=" " description=" " />
+
+				<field type="positionsscript" />
+
+				<!-- END font and color script loader -->
+
+            </fieldset>
+
+			<!-- presets -->
+
+			<fieldset name="presets" description="OTEMPLATES_PRESETS_FIELDSET_DESC">
+
+				<field name="layout" 
+
+					type="radio" 
+
+					default="1" 
+
+					label="OTEMPLATES_LAYOUTS_FIELDSET_LABEL" 
+
+					description="OTEMPLATES_LAYOUTS_FIELDSET_DESC" >
+
+						<option value="1">Wide</option>
+
+						<option value="2">Boxed</option>
+
+				</field>
+
+				<field name="preset" 
+
+					type="radio" 
+
+					default="1" 
+
+					label="OTEMPLATES_PRESETS_FIELDSET_LABEL" 
+
+					description="OTEMPLATES_PRESETS_FIELDSET_DESC" >
+
+						<option value="1">Default</option>
+
+						<option value="2">Color 2</option>
+
+				</field>
+
+			</fieldset>
+
+			<!-- custom background -->
+
+			<fieldset name="background" label="Background" description="OTEMPLATES_BACKGROUND_FIELDSET_DESC">
+
+				<!-- body bg -->
+
+				<field type="paramheading" level="3" label="OTEMPLATES_BODY_BG_HEADING" />
+
+				<field name="oBody_bg_overide" type="radio" default="0" label="OTEMPLATES_CUSTOM_ON_LABEL" description="OTEMPLATES_CUSTOM_ON_DESC" >
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="oBody_bg_image" type="media" label="OTEMPLATES_BG_IMAGE_LABEL" description="OTEMPLATES_BG_IMAGE_DESC" ></field>
+
+				<field name="oBody_bg_repeat" type="radio" default="repeat" label="OTEMPLATES_BG_REPEAT_LABEL" description="OTEMPLATES_BG_REPEAT_DESC" >
+
+					<option value="no-repeat">no-repeat</option>
+
+					<option value="repeat">repeat</option>
+
+					<option value="repeat-x">horizontal repeat</option>
+
+					<option value="repeat-y">vertical repeat</option>
+
+				</field>
+
+				<field name="oBody_bg_transparent" type="radio" default="0" label="OTEMPLATES_BG_TRANS_LABEL" description="OTEMPLATES_BG_TRANS_DESC" >
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="oBody_bg_color" type="text" class="color {hash:true}" default="#FFF" size="20" label="OTEMPLATES_BG_COLOR_LABEL" description="OTEMPLATES_BG_COLOR_BODY_DESC" />
+
+				
+
+				<!-- top bg -->
+
+				<field type="paramheading" level="3" label="OTEMPLATES_TOP_BG_HEADING" />
+
+				<field name="oTopBlock_bg_overide" type="radio" default="0" label="OTEMPLATES_CUSTOM_ON_LABEL" description="OTEMPLATES_CUSTOM_ON_DESC" >
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="oTopBlock_bg_image" type="media" label="OTEMPLATES_BG_IMAGE_LABEL" description="OTEMPLATES_BG_IMAGE_DESC" ></field>
+
+				<field name="oTopBlock_bg_repeat" type="radio" default="repeat" label="OTEMPLATES_BG_REPEAT_LABEL" description="OTEMPLATES_BG_REPEAT_DESC" >
+
+					<option value="no-repeat">no-repeat</option>
+
+					<option value="repeat">repeat</option>
+
+					<option value="repeat-x">horizontal repeat</option>
+
+					<option value="repeat-y">vertical repeat</option>
+
+				</field>
+
+				<field name="oTopBlock_bg_transparent" type="radio" default="0" label="OTEMPLATES_BG_TRANS_LABEL" description="OTEMPLATES_BG_TRANS_DESC" >
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="oTopBlock_bg_color" type="text" class="color {hash:true}" default="#FFF" size="20" label="OTEMPLATES_BG_COLOR_LABEL" description="OTEMPLATES_BG_COLOR_TOP_DESC" />
+
+			
+
+				<!-- middle bg -->
+
+				<field type="paramheading" level="3" label="OTEMPLATES_MIDDLE_BG_HEADING" />
+
+				<field name="oMiddleBlock_bg_overide" type="radio" default="0" label="OTEMPLATES_CUSTOM_ON_LABEL" description="OTEMPLATES_CUSTOM_ON_DESC" >
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="oMiddleBlock_bg_image" type="media" label="OTEMPLATES_BG_IMAGE_LABEL" description="OTEMPLATES_BG_IMAGE_DESC" ></field>
+
+				<field name="oMiddleBlock_bg_repeat" type="radio" default="repeat" label="OTEMPLATES_BG_REPEAT_LABEL" description="OTEMPLATES_BG_REPEAT_DESC" >
+
+					<option value="no-repeat">no-repeat</option>
+
+					<option value="repeat">repeat</option>
+
+					<option value="repeat-x">horizontal repeat</option>
+
+					<option value="repeat-y">vertical repeat</option>
+
+				</field>
+
+				<field name="oMiddleBlock_bg_transparent" type="radio" default="0" label="OTEMPLATES_BG_TRANS_LABEL" description="OTEMPLATES_BG_TRANS_DESC" >
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="oMiddleBlock_bg_color" type="text" class="color {hash:true}" default="#FFF" size="20" label="OTEMPLATES_BG_COLOR_LABEL" description="OTEMPLATES_BG_COLOR_MIDDLE_DESC" />
+
+				
+
+				<!-- main bg -->
+
+				<field type="paramheading" level="3" label="OTEMPLATES_MAIN_BG_HEADING" />
+
+				<field name="oMainBlock_bg_overide" type="radio" default="0" label="OTEMPLATES_CUSTOM_ON_LABEL" description="OTEMPLATES_CUSTOM_ON_DESC" >
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="oMainBlock_bg_image" type="media" label="OTEMPLATES_BG_IMAGE_LABEL" description="OTEMPLATES_BG_IMAGE_DESC" ></field>
+
+				<field name="oMainBlock_bg_repeat" type="radio" default="repeat" label="OTEMPLATES_BG_REPEAT_LABEL" description="OTEMPLATES_BG_REPEAT_DESC" >
+
+					<option value="no-repeat">no-repeat</option>
+
+					<option value="repeat">repeat</option>
+
+					<option value="repeat-x">horizontal repeat</option>
+
+					<option value="repeat-y">vertical repeat</option>
+
+				</field>
+
+				<field name="oMainBlock_bg_transparent" type="radio" default="0" label="OTEMPLATES_BG_TRANS_LABEL" description="OTEMPLATES_BG_TRANS_DESC" >
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="oMainBlock_bg_color" type="text" class="color {hash:true}" default="#FFF" size="20" label="OTEMPLATES_BG_COLOR_LABEL" description="OTEMPLATES_BG_COLOR_MAIN_DESC" />
+
+			
+
+				<!-- bottom bg -->
+
+				<field type="paramheading" level="3" label="OTEMPLATES_BOTTOM_BG_HEADING" />
+
+				<field name="oBottomBlock_bg_overide" type="radio" default="0" label="OTEMPLATES_CUSTOM_ON_LABEL" description="OTEMPLATES_CUSTOM_ON_DESC" >
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="oBottomBlock_bg_image" type="media" label="OTEMPLATES_BG_IMAGE_LABEL" description="OTEMPLATES_BG_IMAGE_DESC" ></field>
+
+				<field name="oBottomBlock_bg_repeat" type="radio" default="repeat" label="OTEMPLATES_BG_REPEAT_LABEL" description="OTEMPLATES_BG_REPEAT_DESC" >
+
+					<option value="no-repeat">no-repeat</option>
+
+					<option value="repeat">repeat</option>
+
+					<option value="repeat-x">horizontal repeat</option>
+
+					<option value="repeat-y">vertical repeat</option>
+
+				</field>
+
+				<field name="oBottomBlock_bg_transparent" type="radio" default="0" label="OTEMPLATES_BG_TRANS_LABEL" description="OTEMPLATES_BG_TRANS_DESC" >
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="oBottomBlock_bg_color" type="text" class="color {hash:true}" default="#FFF" size="20" label="OTEMPLATES_BG_COLOR_LABEL" description="OTEMPLATES_BG_COLOR_BOTTOM_DESC" />
+
+					
+
+				<!-- footer bg -->
+
+				<field type="paramheading" level="3" label="OTEMPLATES_FOOTER_BG_HEADING" />
+
+				<field name="oFooterBlock_bg_overide" type="radio" default="0" label="OTEMPLATES_CUSTOM_ON_LABEL" description="OTEMPLATES_CUSTOM_ON_DESC" >
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="oFooterBlock_bg_image" type="media" label="OTEMPLATES_BG_IMAGE_LABEL" description="OTEMPLATES_BG_IMAGE_DESC" ></field>
+
+				<field name="oFooterBlock_bg_repeat" type="radio" default="repeat" label="OTEMPLATES_BG_REPEAT_LABEL" description="OTEMPLATES_BG_REPEAT_DESC" >
+
+					<option value="no-repeat">no-repeat</option>
+
+					<option value="repeat">repeat</option>
+
+					<option value="repeat-x">horizontal repeat</option>
+
+					<option value="repeat-y">vertical repeat</option>
+
+				</field>
+
+				<field name="oFooterBlock_bg_transparent" type="radio" default="0" label="OTEMPLATES_BG_TRANS_LABEL" description="OTEMPLATES_BG_TRANS_DESC" >
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="oFooterBlock_bg_color" type="text" class="color {hash:true}" default="#FFF" size="20" label="OTEMPLATES_BG_COLOR_LABEL" description="OTEMPLATES_BG_COLOR_FOOTER_DESC" />
+
+					
+
+			</fieldset>
+
+			
+
+			<!-- custom typo -->
+
+			<fieldset name="typography" label="Typography" description="OTEMPLATES_TYPOGRAPHY_FIELDSET_DESC">
+
+				<field type="fontpreview" default="" label=" " description=" " />
+
+				
+
+				<field type="paramheading" level="2" label="OTEMPLATES_BODY_TYPO_HEADING" />
+
+				<field name="body_typo_overide" type="radio" default="0" label="OTEMPLATES_CUSTOM_ON_LABEL" description="OTEMPLATES_CUSTOM_ON_DESC" >
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="body_font_family" type="fonts" default="s:Arial,Helvetica,sans-serif" label="OTEMPLATES_TEXT_GFONT_LABEL" description="OTEMPLATES_TEXT_GFONT_DESC" />
+
+				<field name="body_color" type="text" class="color {hash:true}" default="#333333" label="OTEMPLATES_TEXT_COLOR_LABEL" description="OTEMPLATES_TEXT_COLOR_DESC" />
+
+				<field name="body_font_size" type="text" default="12px" size="10" label="OTEMPLATES_TEXT_SIZE_LABEL" description="OTEMPLATES_TEXT_SIZE_DESC" />
+
+				
+
+				<field type="paramheading" level="3" label="OTEMPLATES_LINK_TYPO_HEADING" />
+
+				<field name="a_typo_overide" type="radio" default="0" label="OTEMPLATES_CUSTOM_ON_LABEL" description="OTEMPLATES_CUSTOM_ON_DESC" >
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="a_color" type="text" class="color {hash:true}" default="#1EA3A5" label="OTEMPLATES_LINK_COLOR_LABEL" description="OTEMPLATES_LINK_COLOR_DESC" />
+
+				
+
+				<field type="paramheading" level="3" label="OTEMPLATES_HOVER_LINK_TYPO_HEADING" />
+
+				<field name="a_hover_typo_overide" type="radio" default="0" label="OTEMPLATES_CUSTOM_ON_LABEL" description="OTEMPLATES_CUSTOM_ON_DESC" >
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="a_hover_color" type="text" class="color {hash:true}" default="#1EA3A5" label="OTEMPLATES_LINK_HOVER_COLOR_LABEL" description="OTEMPLATES_LINK_HOVER_COLOR_DESC" />
+
+				
+
+				<field type="paramheading" level="2" label="OTEMPLATES_HEADING_TYPO_HEADING" />
+
+				<field type="paramheading" level="3" label="Heading 1" />
+
+				<field name="h1_typo_overide" type="radio" default="0" label="OTEMPLATES_CUSTOM_ON_LABEL" description="OTEMPLATES_CUSTOM_ON_DESC" >
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="h1_font_family" type="fonts" default="s:Arial,Helvetica,sans-serif" label="OTEMPLATES_H1_GFONT_LABEL" description="OTEMPLATES_H1_GFONT_DESC" />
+
+				<field name="h1_color" type="text" class="color {hash:true}" default="#333333" label="OTEMPLATES_H1_COLOR_LABEL" description="OTEMPLATES_H1_COLOR_DESC" />
+
+				<field name="h1_font_size" type="text" default="3em" size="10" label="OTEMPLATES_H1_SIZE_LABEL" description="OTEMPLATES_H1_SIZE_DESC" />
+
+				
+
+				<field type="paramheading" level="3" label="Heading 2" />
+
+				<field name="h2_typo_overide" type="radio" default="0" label="OTEMPLATES_CUSTOM_ON_LABEL" description="OTEMPLATES_CUSTOM_ON_DESC" >
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="h2_font_family" type="fonts" default="s:Arial,Helvetica,sans-serif" label="OTEMPLATES_H2_GFONT_LABEL" description="OTEMPLATES_H2_GFONT_DESC" />
+
+				<field name="h2_color" type="text" class="color {hash:true}" default="#333333" label="OTEMPLATES_H2_COLOR_LABEL" description="OTEMPLATES_H2_COLOR_DESC" />
+
+				<field name="h2_font_size" type="text" default="2em" size="10" label="OTEMPLATES_H2_SIZE_LABEL" description="OTEMPLATES_H2_SIZE_DESC" />
+
+				
+
+				<field type="paramheading" level="3" label="Heading 3" />
+
+				<field name="h3_typo_overide" type="radio" default="0" label="OTEMPLATES_CUSTOM_ON_LABEL" description="OTEMPLATES_CUSTOM_ON_DESC" >
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="h3_font_family" type="fonts" default="s:Arial,Helvetica,sans-serif" label="OTEMPLATES_H3_GFONT_LABEL" description="OTEMPLATES_H3_GFONT_DESC" />
+
+				<field name="h3_color" type="text" class="color {hash:true}" default="#333333" label="OTEMPLATES_H3_COLOR_LABEL" description="OTEMPLATES_H3_COLOR_DESC" />
+
+				<field name="h3_font_size" type="text" default="1.5em" size="10" label="OTEMPLATES_H3_SIZE_LABEL" description="OTEMPLATES_H3_SIZE_DESC" />
+
+				
+
+				<field type="paramheading" level="3" label="Heading 4" />
+
+				<field name="h4_typo_overide" type="radio" default="0" label="OTEMPLATES_CUSTOM_ON_LABEL" description="OTEMPLATES_CUSTOM_ON_DESC" >
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="h4_font_family" type="fonts" default="s:Arial,Helvetica,sans-serif" label="OTEMPLATES_H4_GFONT_LABEL" description="OTEMPLATES_H4_GFONT_DESC" />
+
+				<field name="h4_color" type="text" class="color {hash:true}" default="#333333" label="OTEMPLATES_H4_COLOR_LABEL" description="OTEMPLATES_H4_COLOR_DESC" />
+
+				<field name="h4_font_size" type="text" default="1.5em" size="10" label="OTEMPLATES_H4_SIZE_LABEL" description="OTEMPLATES_H4_SIZE_DESC" />
+
+				
+
+				<field type="paramheading" level="3" label="Heading 5" />
+
+				<field name="h5_typo_overide" type="radio" default="0" label="OTEMPLATES_CUSTOM_ON_LABEL" description="OTEMPLATES_CUSTOM_ON_DESC" >
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="h5_font_family" type="fonts" default="s:Arial,Helvetica,sans-serif" label="OTEMPLATES_H5_GFONT_LABEL" description="OTEMPLATES_H5_GFONT_DESC" />
+
+				<field name="h5_color" type="text" class="color {hash:true}" default="#333333" label="OTEMPLATES_H5_COLOR_LABEL" description="OTEMPLATES_H5_COLOR_DESC" />
+
+				<field name="h5_font_size" type="text" default="1.25em" size="10" label="OTEMPLATES_H5_SIZE_LABEL" description="OTEMPLATES_H5_SIZE_DESC" />
+
+				
+
+				<field type="paramheading" level="3" label="Heading 6" />
+
+				<field name="h6_typo_overide" type="radio" default="0" label="OTEMPLATES_CUSTOM_ON_LABEL" description="OTEMPLATES_CUSTOM_ON_DESC" >
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="h6_font_family" type="fonts" default="s:Arial,Helvetica,sans-serif" label="OTEMPLATES_H6_GFONT_LABEL" description="OTEMPLATES_H6_GFONT_DESC" />
+
+				<field name="h6_color" type="text" class="color {hash:true}" default="#333333" label="OTEMPLATES_H6_COLOR_LABEL" description="OTEMPLATES_H6_COLOR_DESC" />
+
+				<field name="h6_font_size" type="text" default="1em" size="10" label="OTEMPLATES_H6_SIZE_LABEL" description="OTEMPLATES_H6_SIZE_DESC" />
+
+			
+
+				<field type="paramheading" level="2" label="OTEMPLATES_OTHERS_TYPO_HEADING" />
+
+				<field type="paramheading" level="3" label="Blockquote" />
+
+				<field name="blockquote_typo_overide" type="radio" default="0" label="OTEMPLATES_CUSTOM_ON_LABEL" description="OTEMPLATES_CUSTOM_ON_DESC" >
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="blockquote_font_family" type="fonts" default="s:Arial,Helvetica,sans-serif" label="OTEMPLATES_BLOCKQUOTE_GFONT_LABEL" description="OTEMPLATES_BLOCKQUOTE_GFONT_DESC" />
+
+				<field name="blockquote_color" type="text" class="color {hash:true}" default="#333333" label="OTEMPLATES_BLOCKQUOTE_COLOR_LABEL" description="OTEMPLATES_BLOCKQUOTE_COLOR_DESC" />
+
+				<field name="blockquote_font_size" type="text" default="12px" size="10" label="OTEMPLATES_BLOCKQUOTE_SIZE_LABEL" description="OTEMPLATES_BLOCKQUOTE_SIZE_DESC" />
+
+				
+
+			</fieldset>
+
+			
+
+			<!-- layout settings -->
+
+			<fieldset name="layouts" label="Layouts" description="OTEMPLATES_LAYOUT_FIELDSET_DESC">
+
+				<!-- the layout: {grid width|mobile view|tablet view|desktop view} -->
+
+				<field type="paramheading" level="4" default="" label="TOP1_BLOCK_LAYOUT" description="TOP1_BLOCK_LAYOUT_DESC" />
+
+				
+
+				<field name="top1" type="positionslayout" label="CONFIGURE_BLOCK_LAYOUT_LABEL" description="CONFIGURE_BLOCK_LAYOUT_DESC" 
+
+					default="6:{2,2,2,2,2,2|1,1,1,1,1,1|1,1,1,1,1,1|1,1,1,1,1,1};
+
+							 5:{4,2,2,2,2|1,1,1,1,1|1,1,1,1,1|1,1,1,1,1};
+
+							 4:{6,2,2,2|1,1,1,1|1,1,1,1|1,1,1,1};
+
+							 3:{8,2,2|1,1,1|1,1,1|1,1,1};
+
+							 2:{10,2|1,1|1,1|1,1};
+
+							 1:{12|1|1|1}"
+
+					/>
+
+				<field name="top1_isFixed" type="radio" default="0" label="FIXED_NUMBER_OF_POSITION_LABEL" description="FIXED_NUMBER_OF_POSITION_DESC">
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="top1_fixedNumber" type="list" default="6" label="SELECT_NUMBER_OF_POSITION_LABEL" description="SELECT_NUMBER_OF_POSITION_DESC">
+
+					<option value="1">J1</option>
+
+					<option value="2">J2</option>
+
+					<option value="3">J3</option>
+
+					<option value="4">J4</option>
+
+					<option value="5">J5</option>
+
+					<option value="6">J6</option>
+
+				</field>
+
+				
+
+				<field type="paramheading" level="4" default="" label="TOP2_BLOCK_LAYOUT" description="TOP2_BLOCK_LAYOUT_DESC" />
+
+				<field name="top2" type="positionslayout" label="CONFIGURE_BLOCK_LAYOUT_LABEL" description="CONFIGURE_BLOCK_LAYOUT_DESC" 
+
+					default="6:{2,2,2,2,2,2|1,1,1,1,1,1|1,1,1,1,1,1|1,1,1,1,1,1};
+
+							 5:{4,2,2,2,2|1,1,1,1,1|1,1,1,1,1|1,1,1,1,1};
+
+							 4:{6,2,2,2|1,1,1,1|1,1,1,1|1,1,1,1};
+
+							 3:{8,2,2|1,1,1|1,1,1|1,1,1};
+
+							 2:{10,2|1,1|1,1|1,1};
+
+							 1:{12|1|1|1}"
+
+					/>
+
+				<field name="top2_isFixed" type="radio" default="0" label="FIXED_NUMBER_OF_POSITION_LABEL" description="FIXED_NUMBER_OF_POSITION_DESC">
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="top2_fixedNumber" type="list" default="6" label="SELECT_NUMBER_OF_POSITION_LABEL" description="SELECT_NUMBER_OF_POSITION_DESC">
+
+					<option value="1">J1</option>
+
+					<option value="2">J2</option>
+
+					<option value="3">J3</option>
+
+					<option value="4">J4</option>
+
+					<option value="5">J5</option>
+
+					<option value="6">J6</option>
+
+				</field>
+
+				
+
+				<field type="paramheading" level="4" default="" label="TOP3_BLOCK_LAYOUT" description="TOP3_BLOCK_LAYOUT_DESC" />
+
+				<field name="top3" type="positionslayout" label="CONFIGURE_BLOCK_LAYOUT_LABEL" description="CONFIGURE_BLOCK_LAYOUT_DESC" 
+
+					default="6:{2,2,2,2,2,2|1,1,1,1,1,1|1,1,1,1,1,1|1,1,1,1,1,1};
+
+							 5:{4,2,2,2,2|1,1,1,1,1|1,1,1,1,1|1,1,1,1,1};
+
+							 4:{6,2,2,2|1,1,1,1|1,1,1,1|1,1,1,1};
+
+							 3:{8,2,2|1,1,1|1,1,1|1,1,1};
+
+							 2:{10,2|1,1|1,1|1,1};
+
+							 1:{12|1|1|1}"
+
+					/>
+
+				<field name="top3_isFixed" type="radio" default="0" label="FIXED_NUMBER_OF_POSITION_LABEL" description="FIXED_NUMBER_OF_POSITION_DESC">
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="top3_fixedNumber" type="list" default="6" label="SELECT_NUMBER_OF_POSITION_LABEL" description="SELECT_NUMBER_OF_POSITION_DESC">
+
+					<option value="1">J1</option>
+
+					<option value="2">J2</option>
+
+					<option value="3">J3</option>
+
+					<option value="4">J4</option>
+
+					<option value="5">J5</option>
+
+					<option value="6">J6</option>
+
+				</field>
+
+				
+
+				<field type="paramheading" level="4" default="" label="TOP4_BLOCK_LAYOUT" description="TOP4_BLOCK_LAYOUT_DESC" />
+
+				<field name="top4" type="positionslayout" label="CONFIGURE_BLOCK_LAYOUT_LABEL" description="CONFIGURE_BLOCK_LAYOUT_DESC" 
+
+					default="6:{2,2,2,2,2,2|1,1,1,1,1,1|1,1,1,1,1,1|1,1,1,1,1,1};
+
+							 5:{4,2,2,2,2|1,1,1,1,1|1,1,1,1,1|1,1,1,1,1};
+
+							 4:{6,2,2,2|1,1,1,1|1,1,1,1|1,1,1,1};
+
+							 3:{8,2,2|1,1,1|1,1,1|1,1,1};
+
+							 2:{10,2|1,1|1,1|1,1};
+
+							 1:{12|1|1|1}"
+
+					/>
+
+				<field name="top4_isFixed" type="radio" default="0" label="FIXED_NUMBER_OF_POSITION_LABEL" description="FIXED_NUMBER_OF_POSITION_DESC">
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="top4_fixedNumber" type="list" default="6" label="SELECT_NUMBER_OF_POSITION_LABEL" description="SELECT_NUMBER_OF_POSITION_DESC">
+
+					<option value="1">J1</option>
+
+					<option value="2">J2</option>
+
+					<option value="3">J3</option>
+
+					<option value="4">J4</option>
+
+					<option value="5">J5</option>
+
+					<option value="6">J6</option>
+
+				</field>
+
+				
+
+				<field type="paramheading" level="4" default="" label="TOP5_BLOCK_LAYOUT" description="TOP5_BLOCK_LAYOUT_DESC" />
+
+				<field name="top5" type="positionslayout" label="CONFIGURE_BLOCK_LAYOUT_LABEL" description="CONFIGURE_BLOCK_LAYOUT_DESC" 
+
+					default="6:{2,2,2,2,2,2|1,1,1,1,1,1|1,1,1,1,1,1|1,1,1,1,1,1};
+
+							 5:{4,2,2,2,2|1,1,1,1,1|1,1,1,1,1|1,1,1,1,1};
+
+							 4:{6,2,2,2|1,1,1,1|1,1,1,1|1,1,1,1};
+
+							 3:{8,2,2|1,1,1|1,1,1|1,1,1};
+
+							 2:{10,2|1,1|1,1|1,1};
+
+							 1:{12|1|1|1}"
+
+					/>
+
+				<field name="top5_isFixed" type="radio" default="0" label="FIXED_NUMBER_OF_POSITION_LABEL" description="FIXED_NUMBER_OF_POSITION_DESC">
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="top5_fixedNumber" type="list" default="6" label="SELECT_NUMBER_OF_POSITION_LABEL" description="SELECT_NUMBER_OF_POSITION_DESC">
+
+					<option value="1">J1</option>
+
+					<option value="2">J2</option>
+
+					<option value="3">J3</option>
+
+					<option value="4">J4</option>
+
+					<option value="5">J5</option>
+
+					<option value="6">J6</option>
+
+				</field>
+
+				
+
+				<field type="paramheading" level="4" default="" label="MIDDLE1_BLOCK_LAYOUT" description="MIDDLE1_BLOCK_LAYOUT_DESC" />
+
+				<field name="middle1" type="positionslayout" label="CONFIGURE_BLOCK_LAYOUT_LABEL" description="CONFIGURE_BLOCK_LAYOUT_DESC" 
+
+					default="6:{2,2,2,2,2,2|1,1,1,1,1,1|1,1,1,1,1,1|1,1,1,1,1,1};
+
+							 5:{4,2,2,2,2|1,1,1,1,1|1,1,1,1,1|1,1,1,1,1};
+
+							 4:{6,2,2,2|1,1,1,1|1,1,1,1|1,1,1,1};
+
+							 3:{8,2,2|1,1,1|1,1,1|1,1,1};
+
+							 2:{10,2|1,1|1,1|1,1};
+
+							 1:{12|1|1|1}"
+
+					/>
+
+				<field name="middle1_isFixed" type="radio" default="0" label="FIXED_NUMBER_OF_POSITION_LABEL" description="FIXED_NUMBER_OF_POSITION_DESC">
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="middle1_fixedNumber" type="list" default="6" label="SELECT_NUMBER_OF_POSITION_LABEL" description="SELECT_NUMBER_OF_POSITION_DESC">
+
+					<option value="1">J1</option>
+
+					<option value="2">J2</option>
+
+					<option value="3">J3</option>
+
+					<option value="4">J4</option>
+
+					<option value="5">J5</option>
+
+					<option value="6">J6</option>
+
+				</field>
+
+				
+
+				<field type="paramheading" level="4" default="" label="MIDDLE2_BLOCK_LAYOUT" description="MIDDLE2_BLOCK_LAYOUT_DESC" />
+
+				<field name="middle2" type="positionslayout" label="CONFIGURE_BLOCK_LAYOUT_LABEL" description="CONFIGURE_BLOCK_LAYOUT_DESC" 
+
+					default="6:{2,2,2,2,2,2|1,1,1,1,1,1|1,1,1,1,1,1|1,1,1,1,1,1};
+
+							 5:{4,2,2,2,2|1,1,1,1,1|1,1,1,1,1|1,1,1,1,1};
+
+							 4:{6,2,2,2|1,1,1,1|1,1,1,1|1,1,1,1};
+
+							 3:{8,2,2|1,1,1|1,1,1|1,1,1};
+
+							 2:{10,2|1,1|1,1|1,1};
+
+							 1:{12|1|1|1}"
+
+					/>
+
+				<field name="middle2_isFixed" type="radio" default="0" label="FIXED_NUMBER_OF_POSITION_LABEL" description="FIXED_NUMBER_OF_POSITION_DESC">
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="middle2_fixedNumber" type="list" default="6" label="SELECT_NUMBER_OF_POSITION_LABEL" description="SELECT_NUMBER_OF_POSITION_DESC">
+
+					<option value="1">J1</option>
+
+					<option value="2">J2</option>
+
+					<option value="3">J3</option>
+
+					<option value="4">J4</option>
+
+					<option value="5">J5</option>
+
+					<option value="6">J6</option>
+
+				</field>
+
+				
+
+				<field type="paramheading" level="4" default="" label="MIDDLE3_BLOCK_LAYOUT" description="MIDDLE3_BLOCK_LAYOUT_DESC" />
+
+				<field name="middle3" type="positionslayout" label="CONFIGURE_BLOCK_LAYOUT_LABEL" description="CONFIGURE_BLOCK_LAYOUT_DESC" 
+
+					default="6:{2,2,2,2,2,2|1,1,1,1,1,1|1,1,1,1,1,1|1,1,1,1,1,1};
+
+							 5:{4,2,2,2,2|1,1,1,1,1|1,1,1,1,1|1,1,1,1,1};
+
+							 4:{6,2,2,2|1,1,1,1|1,1,1,1|1,1,1,1};
+
+							 3:{8,2,2|1,1,1|1,1,1|1,1,1};
+
+							 2:{10,2|1,1|1,1|1,1};
+
+							 1:{12|1|1|1}"
+
+					/>
+
+				<field name="middle3_isFixed" type="radio" default="0" label="FIXED_NUMBER_OF_POSITION_LABEL" description="FIXED_NUMBER_OF_POSITION_DESC">
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="middle3_fixedNumber" type="list" default="6" label="SELECT_NUMBER_OF_POSITION_LABEL" description="SELECT_NUMBER_OF_POSITION_DESC">
+
+					<option value="1">J1</option>
+
+					<option value="2">J2</option>
+
+					<option value="3">J3</option>
+
+					<option value="4">J4</option>
+
+					<option value="5">J5</option>
+
+					<option value="6">J6</option>
+
+				</field>
+
+				
+
+				<field type="paramheading" level="4" default="" label="MAINTOP1_BLOCK_LAYOUT" description="MAINTOP1_BLOCK_LAYOUT_DESC" />
+
+				<field name="maintop1" type="positionslayout" label="CONFIGURE_BLOCK_LAYOUT_LABEL" description="CONFIGURE_BLOCK_LAYOUT_DESC" 
+
+					default="6:{2,2,2,2,2,2|1,1,1,1,1,1|1,1,1,1,1,1|1,1,1,1,1,1};
+
+							 5:{4,2,2,2,2|1,1,1,1,1|1,1,1,1,1|1,1,1,1,1};
+
+							 4:{6,2,2,2|1,1,1,1|1,1,1,1|1,1,1,1};
+
+							 3:{8,2,2|1,1,1|1,1,1|1,1,1};
+
+							 2:{10,2|1,1|1,1|1,1};
+
+							 1:{12|1|1|1}"
+
+					/>
+
+				<field name="maintop1_isFixed" type="radio" default="0" label="FIXED_NUMBER_OF_POSITION_LABEL" description="FIXED_NUMBER_OF_POSITION_DESC">
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="maintop1_fixedNumber" type="list" default="6" label="SELECT_NUMBER_OF_POSITION_LABEL" description="SELECT_NUMBER_OF_POSITION_DESC">
+
+					<option value="1">J1</option>
+
+					<option value="2">J2</option>
+
+					<option value="3">J3</option>
+
+					<option value="4">J4</option>
+
+					<option value="5">J5</option>
+
+					<option value="6">J6</option>
+
+				</field>
+
+				
+
+				<field type="paramheading" level="4" default="" label="MAINTOP2_BLOCK_LAYOUT" description="MAINTOP2_BLOCK_LAYOUT_DESC" />
+
+				<field name="maintop2" type="positionslayout" label="CONFIGURE_BLOCK_LAYOUT_LABEL" description="CONFIGURE_BLOCK_LAYOUT_DESC" 
+
+					default="6:{2,2,2,2,2,2|1,1,1,1,1,1|1,1,1,1,1,1|1,1,1,1,1,1};
+
+							 5:{4,2,2,2,2|1,1,1,1,1|1,1,1,1,1|1,1,1,1,1};
+
+							 4:{6,2,2,2|1,1,1,1|1,1,1,1|1,1,1,1};
+
+							 3:{8,2,2|1,1,1|1,1,1|1,1,1};
+
+							 2:{10,2|1,1|1,1|1,1};
+
+							 1:{12|1|1|1}"
+
+					/>
+
+				<field name="maintop2_isFixed" type="radio" default="0" label="FIXED_NUMBER_OF_POSITION_LABEL" description="FIXED_NUMBER_OF_POSITION_DESC">
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="maintop2_fixedNumber" type="list" default="6" label="SELECT_NUMBER_OF_POSITION_LABEL" description="SELECT_NUMBER_OF_POSITION_DESC">
+
+					<option value="1">J1</option>
+
+					<option value="2">J2</option>
+
+					<option value="3">J3</option>
+
+					<option value="4">J4</option>
+
+					<option value="5">J5</option>
+
+					<option value="6">J6</option>
+
+				</field>
+
+				
+
+				<field type="paramheading" level="4" default="" label="CONTENTTOP_BLOCK_LAYOUT" description="CONTENTTOP_BLOCK_LAYOUT_DESC" />
+
+				<field name="content-top" type="positionslayout" label="CONFIGURE_BLOCK_LAYOUT_LABEL" description="CONFIGURE_BLOCK_LAYOUT_DESC" 
+
+					default="3:{4,4,4|1,1,1|1,1,1|1,1,1};
+
+							 2:{6,6|1,1|1,1|1,1};
+
+							 1:{12|1|1|1}"
+
+					/>
+
+				<field name="content-top_isFixed" type="radio" default="0" label="FIXED_NUMBER_OF_POSITION_LABEL" description="FIXED_NUMBER_OF_POSITION_DESC">
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="content-top_fixedNumber" type="list" default="6" label="SELECT_NUMBER_OF_POSITION_LABEL" description="SELECT_NUMBER_OF_POSITION_DESC">
+
+					<option value="1">J1</option>
+
+					<option value="2">J2</option>
+
+					<option value="3">J3</option>
+
+				</field>
+
+				
+
+				
+
+				<field type="paramheading" level="4" default="" label="MAIN_BLOCK_LAYOUT" description="MAIN_BLOCK_LAYOUT_DESC" />
+
+				<field name="sidebarLayout" type="list" default="maincontent,sidebar-1,sidebar-2,sidebar-3" label="SELECT_SIDEBAR_LAYOUT_LABEL" description="SELECT_SIDEBAR_LAYOUT_DESC">
+
+					<option value="sidebar-1,sidebar-2,sidebar-3,maincontent">SIDEBAR_ALL_LEFT</option>
+
+					<option value="maincontent,sidebar-1,sidebar-2,sidebar-3">SIDEBAR_ALL_RIGHT</option>
+
+					<option value="sidebar-1,maincontent,sidebar-2,sidebar-3">SIDEBAR_ONE_LEFT</option>
+
+					<option value="sidebar-1,sidebar-2,maincontent,sidebar-3">SIDEBAR_ONE_RIGHT</option>
+
+				</field>
+
+				
+
+				<field name="sidebar" type="positionslayout" label="CONFIGURE_BLOCK_LAYOUT_LABEL" description="CONFIGURE_BLOCK_LAYOUT_DESC" 
+
+					default="4:{6,2,2,2|1,1,1,1|1,1,1,1|1,1,1,1};
+
+							 3:{8,2,2|1,1,1|1,1,1|1,1,1};
+
+							 2:{10,2|1,1|1,1|1,1};
+
+							 1:{12|1|1|1}"
+
+					/>
+
+				<field name="mainbody_isFixed" type="radio" default="0" label="FIXED_NUMBER_OF_POSITION_LABEL" description="FIXED_NUMBER_OF_POSITION_DESC">
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="mainbody_fixedNumber" type="list" default="6" label="SELECT_NUMBER_OF_POSITION_LABEL" description="SELECT_NUMBER_OF_POSITION_DESC">
+
+					<option value="1">J1</option>
+
+					<option value="2">J2</option>
+
+					<option value="3">J3</option>
+
+					<option value="4">J4</option>
+
+				</field>
+
+			
+
+				<field type="paramheading" level="4" default="" label="CONTENTBOTTOM_BLOCK_LAYOUT" description="CONTENTBOTTOM_BLOCK_LAYOUT_DESC" />
+
+				<field name="content-bottom" type="positionslayout" label="CONFIGURE_BLOCK_LAYOUT_LABEL" description="CONFIGURE_BLOCK_LAYOUT_DESC" 
+
+					default="3:{4,4,4|1,1,1|1,1,1|1,1,1};
+
+							 2:{6,6|1,1|1,1|1,1};
+
+							 1:{12|1|1|1}"
+
+					/>
+
+				<field name="content-bottom_isFixed" type="radio" default="0" label="FIXED_NUMBER_OF_POSITION_LABEL" description="FIXED_NUMBER_OF_POSITION_DESC">
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="content-bottom_fixedNumber" type="list" default="6" label="SELECT_NUMBER_OF_POSITION_LABEL" description="SELECT_NUMBER_OF_POSITION_DESC">
+
+					<option value="1">J1</option>
+
+					<option value="2">J2</option>
+
+					<option value="3">J3</option>
+
+				</field>
+
+				
+
+				
+
+				<field type="paramheading" level="4" default="" label="MAINBOTTOM1_BLOCK_LAYOUT" description="MAINBOTTOM1_BLOCK_LAYOUT_DESC" />
+
+				<field name="mainbottom1" type="positionslayout" label="CONFIGURE_BLOCK_LAYOUT_LABEL" description="CONFIGURE_BLOCK_LAYOUT_DESC" 
+
+					default="6:{2,2,2,2,2,2|1,1,1,1,1,1|1,1,1,1,1,1|1,1,1,1,1,1};
+
+							 5:{4,2,2,2,2|1,1,1,1,1|1,1,1,1,1|1,1,1,1,1};
+
+							 4:{6,2,2,2|1,1,1,1|1,1,1,1|1,1,1,1};
+
+							 3:{8,2,2|1,1,1|1,1,1|1,1,1};
+
+							 2:{10,2|1,1|1,1|1,1};
+
+							 1:{12|1|1|1}"
+
+					/>
+
+				<field name="mainbottom1_isFixed" type="radio" default="0" label="FIXED_NUMBER_OF_POSITION_LABEL" description="FIXED_NUMBER_OF_POSITION_DESC">
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="mainbottom1_fixedNumber" type="list" default="6" label="SELECT_NUMBER_OF_POSITION_LABEL" description="SELECT_NUMBER_OF_POSITION_DESC">
+
+					<option value="1">J1</option>
+
+					<option value="2">J2</option>
+
+					<option value="3">J3</option>
+
+					<option value="4">J4</option>
+
+					<option value="5">J5</option>
+
+					<option value="6">J6</option>
+
+				</field>
+
+				
+
+				<field type="paramheading" level="4" default="" label="MAINBOTTOM2_BLOCK_LAYOUT" description="MAINBOTTOM2_BLOCK_LAYOUT_DESC" />
+
+				<field name="mainbottom2" type="positionslayout" label="CONFIGURE_BLOCK_LAYOUT_LABEL" description="CONFIGURE_BLOCK_LAYOUT_DESC" 
+
+					default="6:{2,2,2,2,2,2|1,1,1,1,1,1|1,1,1,1,1,1|1,1,1,1,1,1};
+
+							 5:{4,2,2,2,2|1,1,1,1,1|1,1,1,1,1|1,1,1,1,1};
+
+							 4:{6,2,2,2|1,1,1,1|1,1,1,1|1,1,1,1};
+
+							 3:{8,2,2|1,1,1|1,1,1|1,1,1};
+
+							 2:{10,2|1,1|1,1|1,1};
+
+							 1:{12|1|1|1}"
+
+					/>
+
+				<field name="mainbottom2_isFixed" type="radio" default="0" label="FIXED_NUMBER_OF_POSITION_LABEL" description="FIXED_NUMBER_OF_POSITION_DESC">
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="mainbottom2_fixedNumber" type="list" default="6" label="SELECT_NUMBER_OF_POSITION_LABEL" description="SELECT_NUMBER_OF_POSITION_DESC">
+
+					<option value="1">J1</option>
+
+					<option value="2">J2</option>
+
+					<option value="3">J3</option>
+
+					<option value="4">J4</option>
+
+					<option value="5">J5</option>
+
+					<option value="6">J6</option>
+
+				</field>
+
+				
+
+				<field type="paramheading" level="4" default="" label="BOTTOM1_BLOCK_LAYOUT" description="BOTTOM1_BLOCK_LAYOUT_DESC" />
+
+				<field name="bottom1" type="positionslayout" label="CONFIGURE_BLOCK_LAYOUT_LABEL" description="CONFIGURE_BLOCK_LAYOUT_DESC" 
+
+					default="6:{2,2,2,2,2,2|1,1,1,1,1,1|1,1,1,1,1,1|1,1,1,1,1,1};
+
+							 5:{4,2,2,2,2|1,1,1,1,1|1,1,1,1,1|1,1,1,1,1};
+
+							 4:{6,2,2,2|1,1,1,1|1,1,1,1|1,1,1,1};
+
+							 3:{8,2,2|1,1,1|1,1,1|1,1,1};
+
+							 2:{10,2|1,1|1,1|1,1};
+
+							 1:{12|1|1|1}"
+
+					/>
+
+				<field name="bottom1_isFixed" type="radio" default="0" label="FIXED_NUMBER_OF_POSITION_LABEL" description="FIXED_NUMBER_OF_POSITION_DESC">
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="bottom1_fixedNumber" type="list" default="6" label="SELECT_NUMBER_OF_POSITION_LABEL" description="SELECT_NUMBER_OF_POSITION_DESC">
+
+					<option value="1">J1</option>
+
+					<option value="2">J2</option>
+
+					<option value="3">J3</option>
+
+					<option value="4">J4</option>
+
+					<option value="5">J5</option>
+
+					<option value="6">J6</option>
+
+				</field>
+
+				
+
+				<field type="paramheading" level="4" default="" label="BOTTOM2_BLOCK_LAYOUT" description="BOTTOM2_BLOCK_LAYOUT_DESC" />
+
+				<field name="bottom2" type="positionslayout" label="CONFIGURE_BLOCK_LAYOUT_LABEL" description="CONFIGURE_BLOCK_LAYOUT_DESC" 
+
+					default="6:{2,2,2,2,2,2|1,1,1,1,1,1|1,1,1,1,1,1|1,1,1,1,1,1};
+
+							 5:{4,2,2,2,2|1,1,1,1,1|1,1,1,1,1|1,1,1,1,1};
+
+							 4:{6,2,2,2|1,1,1,1|1,1,1,1|1,1,1,1};
+
+							 3:{8,2,2|1,1,1|1,1,1|1,1,1};
+
+							 2:{10,2|1,1|1,1|1,1};
+
+							 1:{12|1|1|1}"
+
+					/>
+
+				<field name="bottom2_isFixed" type="radio" default="0" label="FIXED_NUMBER_OF_POSITION_LABEL" description="FIXED_NUMBER_OF_POSITION_DESC">
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="bottom2_fixedNumber" type="list" default="6" label="SELECT_NUMBER_OF_POSITION_LABEL" description="SELECT_NUMBER_OF_POSITION_DESC">
+
+					<option value="1">J1</option>
+
+					<option value="2">J2</option>
+
+					<option value="3">J3</option>
+
+					<option value="4">J4</option>
+
+					<option value="5">J5</option>
+
+					<option value="6">J6</option>
+
+				</field>
+
+				
+
+				<field type="paramheading" level="4" default="" label="BOTTOM3_BLOCK_LAYOUT" description="BOTTOM3_BLOCK_LAYOUT_DESC" />
+
+				<field name="bottom3" type="positionslayout" label="CONFIGURE_BLOCK_LAYOUT_LABEL" description="CONFIGURE_BLOCK_LAYOUT_DESC" 
+
+					default="6:{2,2,2,2,2,2|1,1,1,1,1,1|1,1,1,1,1,1|1,1,1,1,1,1};
+
+							 5:{4,2,2,2,2|1,1,1,1,1|1,1,1,1,1|1,1,1,1,1};
+
+							 4:{6,2,2,2|1,1,1,1|1,1,1,1|1,1,1,1};
+
+							 3:{8,2,2|1,1,1|1,1,1|1,1,1};
+
+							 2:{10,2|1,1|1,1|1,1};
+
+							 1:{12|1|1|1}"
+
+					/>
+
+				<field name="bottom3_isFixed" type="radio" default="0" label="FIXED_NUMBER_OF_POSITION_LABEL" description="FIXED_NUMBER_OF_POSITION_DESC">
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="bottom3_fixedNumber" type="list" default="6" label="SELECT_NUMBER_OF_POSITION_LABEL" description="SELECT_NUMBER_OF_POSITION_DESC">
+
+					<option value="1">J1</option>
+
+					<option value="2">J2</option>
+
+					<option value="3">J3</option>
+
+					<option value="4">J4</option>
+
+					<option value="5">J5</option>
+
+					<option value="6">J6</option>
+
+				</field>
+
+				
+
+				<field type="paramheading" level="4" default="" label="FOOTER1_BLOCK_LAYOUT" description="FOOTER1_BLOCK_LAYOUT_DESC" />
+
+				<field name="footer1" type="positionslayout" label="CONFIGURE_BLOCK_LAYOUT_LABEL" description="CONFIGURE_BLOCK_LAYOUT_DESC" 
+
+					default="6:{2,2,2,2,2,2|1,1,1,1,1,1|1,1,1,1,1,1|1,1,1,1,1,1};
+
+							 5:{4,2,2,2,2|1,1,1,1,1|1,1,1,1,1|1,1,1,1,1};
+
+							 4:{6,2,2,2|1,1,1,1|1,1,1,1|1,1,1,1};
+
+							 3:{8,2,2|1,1,1|1,1,1|1,1,1};
+
+							 2:{10,2|1,1|1,1|1,1};
+
+							 1:{12|1|1|1}"
+
+					/>
+
+				<field name="footer1_isFixed" type="radio" default="0" label="FIXED_NUMBER_OF_POSITION_LABEL" description="FIXED_NUMBER_OF_POSITION_DESC">
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="footer1_fixedNumber" type="list" default="6" label="SELECT_NUMBER_OF_POSITION_LABEL" description="SELECT_NUMBER_OF_POSITION_DESC">
+
+					<option value="1">J1</option>
+
+					<option value="2">J2</option>
+
+					<option value="3">J3</option>
+
+					<option value="4">J4</option>
+
+					<option value="5">J5</option>
+
+					<option value="6">J6</option>
+
+				</field>
+
+				
+
+				<field type="paramheading" level="4" default="" label="FOOTER2_BLOCK_LAYOUT" description="FOOTER2_BLOCK_LAYOUT_DESC" />
+
+				<field name="footer2" type="positionslayout" label="CONFIGURE_BLOCK_LAYOUT_LABEL" description="CONFIGURE_BLOCK_LAYOUT_DESC" 
+
+					default="6:{2,2,2,2,2,2|1,1,1,1,1,1|1,1,1,1,1,1|1,1,1,1,1,1};
+
+							 5:{4,2,2,2,2|1,1,1,1,1|1,1,1,1,1|1,1,1,1,1};
+
+							 4:{6,2,2,2|1,1,1,1|1,1,1,1|1,1,1,1};
+
+							 3:{8,2,2|1,1,1|1,1,1|1,1,1};
+
+							 2:{10,2|1,1|1,1|1,1};
+
+							 1:{12|1|1|1}"
+
+					/>
+
+				<field name="footer2_isFixed" type="radio" default="0" label="FIXED_NUMBER_OF_POSITION_LABEL" description="FIXED_NUMBER_OF_POSITION_DESC">
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="footer2_fixedNumber" type="list" default="6" label="SELECT_NUMBER_OF_POSITION_LABEL" description="SELECT_NUMBER_OF_POSITION_DESC">
+
+					<option value="1">J1</option>
+
+					<option value="2">J2</option>
+
+					<option value="3">J3</option>
+
+					<option value="4">J4</option>
+
+					<option value="5">J5</option>
+
+					<option value="6">J6</option>
+
+				</field>
+
+				
+
+			</fieldset>
+
+			
+
+			<!-- advanced settings -->
+
+			<fieldset name="advanced" label="Advanced" description="OTEMPLATES_ADVANCED_FIELDSET_DESC">
+
+				<field name="component_on_home" type="radio" default="1" label="OTEMPLATES_COMP_ON_HOME_LABEL" description="OTEMPLATES_COMP_ON_HOME_DESC" >
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field type="spacer" />
+
+				<field name="show_system_message" type="radio" default="1" label="OTEMPLATES_SYSMESSAGE_SHOW_LABEL" description="OTEMPLATES_SYSMESSAGE_SHOW_DESC" >
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="system_message_position" type="moduleposition" label="OTEMPLATES_SYSMESSAGE_POSITION_LABEL" description="OTEMPLATES_SYSMESSAGE_POSITION_DESC"/>
+
+				<field type="spacer" />
+
+				<field name="google_analytics_enabled" type="radio" default="0" label="OTEMPLATES_GA_ON_LABEL" description="OTEMPLATES_GA_ON_DESC" >
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field name="google_analytics_uacode" type="text" default="" label="OTEMPLATES_GA_UAC_LABEL" description="OTEMPLATES_GA_UAC_DESC" />
+
+				<field type="spacer" />
+
+				<field name="loadPIE" type="radio" default="1" label="OTEMPLATES_PIE_SHOW_LABEL" description="OTEMPLATES_PIE_SHOW_DESC" >
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field type="spacer" />
+
+				<field name="loadHTML5Shiv" type="radio" default="1" label="OTEMPLATES_HTML5SHIV_SHOW_LABEL" description="OTEMPLATES_HTML5SHIV_SHOW_DESC" >
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+				<field type="spacer" />
+
+				<field name="show_template_control" type="radio" default="0" label="OTEMPLATES_TEMPCONTROL_SHOW_LABEL" description="OTEMPLATES_TEMPCONTROL_SHOW_DESC" >
+
+					<option value="0">JNO</option>
+
+					<option value="1">JYES</option>
+
+				</field>
+
+			</fieldset>
+
+		</fields>
+
+	</config>
+
+</extension>

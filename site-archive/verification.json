@@ -1,0 +1,165 @@
+{
+  "tested_at": "2026-09-16T14:23:09.894Z",
+  "origin": "http://127.0.0.1:4173",
+  "pages": [
+    {
+      "name": "local-desktop",
+      "url": "http://127.0.0.1:4173/",
+      "status": 200,
+      "title": "Натяжные потолки в Тольятти и Самаре, компания Вертикальная линия",
+      "scrollWidth": 1440,
+      "viewport": 1440,
+      "images": 41,
+      "loadedImages": 41,
+      "brokenImages": [],
+      "textLength": 13393,
+      "errors": [
+        "a.measure is not a function"
+      ],
+      "interactions": [
+        {
+          "name": "cookie notice close",
+          "passed": true
+        },
+        {
+          "name": "navigation to gallery",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "local-mobile",
+      "url": "http://127.0.0.1:4173/",
+      "status": 200,
+      "title": "Натяжные потолки в Тольятти и Самаре, компания Вертикальная линия",
+      "scrollWidth": 390,
+      "viewport": 390,
+      "images": 41,
+      "loadedImages": 41,
+      "brokenImages": [],
+      "textLength": 1551,
+      "errors": [],
+      "interactions": [
+        {
+          "name": "mobile navigation opens",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "local-gallery",
+      "url": "http://127.0.0.1:4173/nashi_raboty.html",
+      "status": 200,
+      "title": "Фото натяжных потолков в интерьере. Вертикальная линия, Тольятти",
+      "scrollWidth": 1440,
+      "viewport": 1440,
+      "images": 478,
+      "loadedImages": 478,
+      "brokenImages": [],
+      "textLength": 8224,
+      "errors": [
+        "a.measure is not a function"
+      ],
+      "interactions": [
+        {
+          "name": "gallery original image opens locally",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "local-article",
+      "url": "http://127.0.0.1:4173/news/item/316-populyarnyj-v-tolyatti-nakladnoj-svetilnik-dlya-natyazhnyh-potolkov.html",
+      "status": 200,
+      "title": "Популярный в Тольятти накладной светильник для натяжных потолков. Берите не пожалеете!",
+      "scrollWidth": 1440,
+      "viewport": 1440,
+      "images": 24,
+      "loadedImages": 24,
+      "brokenImages": [],
+      "textLength": 3365,
+      "errors": [
+        "a.measure is not a function"
+      ],
+      "interactions": []
+    },
+    {
+      "name": "local-contact",
+      "url": "http://127.0.0.1:4173/contacts.html",
+      "status": 200,
+      "title": "Контакты компании \"Вертикальная линия\"",
+      "scrollWidth": 1440,
+      "viewport": 1440,
+      "images": 20,
+      "loadedImages": 20,
+      "brokenImages": [],
+      "textLength": 2643,
+      "errors": [
+        "a.measure is not a function"
+      ],
+      "interactions": []
+    },
+    {
+      "name": "local-photos",
+      "url": "http://127.0.0.1:4173/photo-index.html",
+      "status": 200,
+      "title": "Фотографии VL63 для редизайна",
+      "scrollWidth": 1440,
+      "viewport": 1440,
+      "images": 1986,
+      "loadedImages": 20,
+      "brokenImages": [],
+      "textLength": 262898,
+      "errors": [],
+      "interactions": [
+        {
+          "name": "photo search",
+          "passed": true,
+          "before": 1986,
+          "after": 43
+        }
+      ]
+    },
+    {
+      "name": "content index",
+      "passed": true
+    }
+  ],
+  "external_network_attempts": [
+    {
+      "page": "local-desktop",
+      "url": "http://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=K6fxc5fimtMAjxiHpZXyJe8RGCdANn24di8isdl3IgXo6uk9os4o9fgjTBmUK2lZ"
+    },
+    {
+      "page": "local-desktop",
+      "url": "http://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=w3N1D-Js4dTxBwFWS6N20OVlEAhcisBn4G3J7tkVC4pKCXC9qz3EFnpkjQvAHEPiGIgmjwvKxPPTVJRWZP-BjA"
+    },
+    {
+      "page": "local-mobile",
+      "url": "http://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=nCLMhBPcButikZ6cCBnBFk-uxoyXTwUdG9YDTxYsF5OLW9F_0O8mYW1sg8U_U6ya"
+    },
+    {
+      "page": "local-gallery",
+      "url": "http://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=jNttsrJe7_6OFnMDmstlJ3lz-AMhGsDBdFkAsPRG-sc2Y8MD0N7BW4hMjVNBdhdLRFD1Opt10SsVOIJuh0uDeQ"
+    },
+    {
+      "page": "local-article",
+      "url": "http://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=npVJosEm9YAsbERqLGTWbpnfayIv8OUeT-KIeN7MXbKZLgx6ANF4euFzAQipzqHf3X1v4DI7R-k9RXpeFMMz045g_98o2RXc1Nz098AUgqMhSM4Yytzzc-PxTLNSRzxV_OgvZQY25xBOl_F5HGA9xtIa1jCKXNf9WeEOoByOhGU"
+    },
+    {
+      "page": "local-contact",
+      "url": "http://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=8V_bSzoh2OkCy5JEPEcktL-Ikry5CcWWnj7kuN_6d6OPmC0M1TgootB9jcaTq_pFDTepgikYt120xQYDNg9anQ"
+    },
+    {
+      "page": "local-photos",
+      "url": "http://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=ByDbActEGrkphIbV2_0TXUwhN1Ng7VCJBgyZw7ob_bXvueWRcLyqETl8RX3BPsoWCk2ODa8LYQjdtL2vnl4eIQ"
+    }
+  ],
+  "missing_resources": [],
+  "failed_samples": [],
+  "notes": [
+    "Network to all non-local hosts was blocked during checks.",
+    "Historical source JavaScript errors are documented separately in browser-source.json.",
+    "No forms were submitted to the public website."
+  ]
+}
